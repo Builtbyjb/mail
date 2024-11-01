@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Playwrite+DE+Grund:wght@100..400&display=swap');
+body {
+    font-family: "Playwrite DE Grund";
+}
+
+textarea {
+    min-height: 400px;
+}
+
+.addr {
+    margin-right: 30px;
+    font-weight: bold;
+}
+
+.bg-grey {
+    background-color: lightgrey;
+}
